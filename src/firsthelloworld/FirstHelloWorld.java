@@ -18,6 +18,7 @@ public class FirstHelloWorld {
         // TODO code application logic here
         System.out.println("hello world");
         System.out.println("hello world2");
+        System.out.println("G14932ないとうでーす");
     }
     
 }
